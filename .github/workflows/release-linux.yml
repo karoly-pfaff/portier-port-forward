@@ -141,7 +141,7 @@ jobs:
         run: npm run validate:artifacts
 
       - name: Upload Linux release artifacts
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: portier-release-linux
           path: build/releases/linux/**
