@@ -26,8 +26,8 @@
     "rxjs": "^7.8.2"
   },
   "devDependencies": {
-    "@nestjs/testing": "^11.1.6",
+    "@nestjs/testing": "^11.1.29",
     "@types/express": "^5.0.2",
-    "tsx": "^4.19.4"
+    "tsx": "^4.23.12"
   }
 }
